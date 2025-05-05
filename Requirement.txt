@@ -1,0 +1,12 @@
+pandas
+numpy
+glob
+re
+nltk
+sklearn
+xgboost
+joblib
+os
+matplotlib
+seaborn
+(Note: nltk requires stopwords and WordNetLemmatizer, while sklearn has multiple submodules used.)
